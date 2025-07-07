@@ -4,9 +4,9 @@
 
 ![](https://komarev.com/ghpvc/?username=bimal-saggu&color=fb4362)
 
-- 🔭 I’m currently working on a web app for film ethusiasts.
+- 🔭 I’m currently working as a Freelance Developer
 - 🌱 I’m currently learning Front End Testing
-- 💬 Ask me about Front End Development, animation tools, films 
+- 💬 Ask me about Front End Development, Front End animation tools, Web Applications 
 - 📫 Reach me at bimalsaggu28@gmail.com
 -->
 
